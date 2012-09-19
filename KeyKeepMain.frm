@@ -609,11 +609,11 @@ Case 3
  Select Case List1.ListIndex
  Case 0
   List3.Clear
-  List3.AddItem "101907"
-  Text2.Text = "999b70c9e"
+  List3.AddItem "11111-11111-11111-11111-11111"
+  Text2.Text = "11111-11111-11111-11111-11111"
   Text3.Text = "09-30-1994"
   Label7.Caption = "No"
- ' CurrentKey = "101907"
+ ' CurrentKey = "11111-11111-11111-11111-11111"
  Case 1
   List3.Clear
   List3.AddItem "11111-11111-11111-11111-11111"
@@ -1016,10 +1016,10 @@ Case 4
   Text2.Text = "n/a"
   Text3.Text = "04-13-2001"
   Label7.Caption = "No"
- ' CurrentKey = "RBDC9-VTRC8-D7972-J97JY-PRVMG"
+ ' CurrentKey = "11111-11111-11111-11111-11111"
 Case 5
  List3.Clear
- List3.AddItem "DTWB2-VX8WY-FG8R3-X696T-66Y46"
+ List3.AddItem "11111-11111-11111-11111-11111"
  Text2.Text = "n/a"
  Text3.Text = "06-13-2001"
  Label7.Caption = "No"
